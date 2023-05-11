@@ -1,0 +1,1 @@
+This program is a concept of simple bank smart contract. Using SB Token as a demo token to simulate the bank like transaction.
